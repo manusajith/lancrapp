@@ -1,5 +1,5 @@
-## We Work Meteor
-http://www.weworkmeteor.com/
+## Lancr
+http://www.lancr.com/
 
 # Meteor Job Board and Expert Directory
 
@@ -19,5 +19,5 @@ Forking for unique communities is quite welcome and encouraged, but please alter
 
 This application is covered by the GPL v2 license, which requires that all forked instances that are publicly accessible are also open source. See http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#GPLRequireSourcePostedPublic
 
-#### Forks for other communities 
+#### Forks for other communities
 [Ethereum Jobs](http://jobs.ethercasts.com/)
