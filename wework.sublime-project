@@ -10,7 +10,7 @@
 	],
 	"settings":
 	{
-		"tabSize": 4,
+		"tabSize": 2,
 		"translateTabsToSpaces": false,
 		"trim_trailing_white_space_on_save": true,
 		"useTabStops": true
