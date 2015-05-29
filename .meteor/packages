@@ -8,11 +8,8 @@ less
 service-configuration
 accounts-ui
 accounts-password
-accounts-facebook
 accounts-github
 accounts-google
-accounts-twitter
-accounts-meteor-developer
 spiderable
 iron:router
 natestrauser:font-awesome

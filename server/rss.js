@@ -18,8 +18,8 @@ RssFeed.publish('jobs', function(query) {
   if (secondMostRecent)
     lastBuildDate = secondMostRecent.createdAt;
 
-  self.setValue('title', self.cdata('We Work Meteor - Recent Jobs'));
-  self.setValue('description', self.cdata('This is a feed of recent jobs posted to We Work Meteor.'));
+  self.setValue('title', self.cdata('Lancr - Recent Jobs'));
+  self.setValue('description', self.cdata('This is a feed of recent jobs posted to Lancr.'));
   self.setValue('link', Meteor.absoluteUrl());
   self.setValue('lastBuildDate', lastBuildDate);
   self.setValue('pubDate', pubDate);
@@ -62,8 +62,8 @@ var profileRss = function(query) {
   if (secondMostRecent)
     lastBuildDate = secondMostRecent.createdAt;
 
-  self.setValue('title', self.cdata('We Work Meteor - Recent Profiles'));
-  self.setValue('description', self.cdata('This is a feed of recent profiles listed on We Work Meteor.'));
+  self.setValue('title', self.cdata('Lancr - Recent Profiles'));
+  self.setValue('description', self.cdata('This is a feed of recent profiles listed on Lancr.'));
   self.setValue('link', Meteor.absoluteUrl());
   self.setValue('lastBuildDate', lastBuildDate);
   self.setValue('pubDate', pubDate);
