@@ -1,1 +1,0 @@
-Kadira.connect('YcJpBhc2P4WQto8es', 'd8b98baa-3e6e-4c35-83b8-77c8c2038428')
