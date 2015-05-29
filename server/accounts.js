@@ -1,9 +1,9 @@
 Accounts.emailTemplates.siteName = "Lancr";
 Accounts.emailTemplates.from = FROM_EMAIL;
 
-Accounts.config({
-  sendVerificationEmail: true
-});
+// Accounts.config({
+//   sendVerificationEmail: true
+// });
 
 Accounts.onCreateUser(function(options, user) {
   if (options.profile)
