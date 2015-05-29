@@ -9,8 +9,8 @@ service-configuration
 accounts-ui
 accounts-password
 # accounts-facebook
-# accounts-github
-# accounts-google
+accounts-github
+accounts-google
 # accounts-twitter
 # accounts-meteor-developer
 spiderable
