@@ -85,6 +85,7 @@ observe-sequence@1.0.6
 ongoworks:speakingurl@1.1.0
 ordered-dict@1.0.3
 peppelg:bootstrap-3-modal@1.0.3
+percolate:intercom@1.2.8
 percolate:migrations@0.7.3
 percolatestudio:synced-cron@1.1.0
 raix:handlebar-helpers@0.2.4
